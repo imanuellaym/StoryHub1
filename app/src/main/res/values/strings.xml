@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">StoryHub</string>
+
+    <!-- Common Phrases -->
+    <string name="login_message">Login to explore amazing stories</string>
+    <string name="sign_up_message">Sign up to create an account</string>
+    <string name="create_account_message">Dont have an account? Sign up here</string>
+    <string name="invalid_data">Data is not valid</string>
+    <string name="retry">Retry</string>
+    <string name="upload_error">Failed to upload story, please try again.</string>
+    <string name="loading_desc">Loading progress</string>
+    <string name="submit">Submit</string>
+    <string name="camera_error">Failed to open camera. Please try again.</string>
+    <!-- Welcome Page -->
+    <string name="title_welcome_page">Welcome to StoryHub</string>
+    <string name="message_welcome_page">Discover and share amazing stories with the world!</string>
+    <string name="explore_now">Start Exploring</string>
+    <string name="join_us">Join us and tell your story!</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Login Page -->
+    <string name="title_login_page">Welcome to StoryHub</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="password_error_message">Password must be at least 8 characters</string>
+    <string name="email_error_message">Invalid email format</string>
+    <string name="login">Login</string>
+    <string name="login_successful">Login berhasil!</string>
+    <string name="login_failed">Login gagal, coba lagi.</string>
+
+    <!-- Signup Page -->
+    <string name="title_signup_page">Create Your Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fill_all_fields">Please fill in all the fields.</string>
+
+    <!-- Main Page -->
+    <string name="user_name">Welcome, User</string>
+    <string name="message_main_page">Explore amazing stories and share your own!</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Add a new story</string>
+
+    <!-- Story Details -->
+    <string name="image_preview">Story image preview</string>
+    <string name="username_placeholder">Username</string>
+    <string name="story_description_placeholder">Story description</string>
+    <string name="image_preview_desc">Image preview</string>
+    <string name="title_placeholder">Title</string>
+    <string name="desc_placeholder">Description</string>
+
+    <!-- Buttons and Actions -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+
+    <!-- Success and Error Messages -->
+    <string name="upload_success">Story uploaded successfully!</string>
+    <string name="empty_image_warning">Please select an image before uploading</string>
+    <string name="story_image_placeholder">No image selected</string>
+    <string name="preview_image">Image Preview</string>
+    <string name="description">Write a description for your story...</string>
+    <string name="upload_failed">Failed to upload the story. Please try again.</string>
+    <string name="progress_uploading">Uploading your story...</string>
+    <string name="select_image_warning">Please select an image before uploading.</string>
+    <string name="description_required">Description is required.</string>
+    <string name="title_activity_detail">Story Details</string>
+    <string name="title_activity_add_story">Add New Story</string>
+
+    <!-- Permissions -->
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
+
+    <!-- Accessibility -->
+    <string name="camera_button_desc">Button to open the camera</string>
+    <string name="gallery_button_desc">Button to open the gallery</string>
+    <string name="upload_button_desc">Button to upload the story</string>
+    <string name="no_media_selected">No media selected.</string>
+    <string name="image_required">Please select an image.</string>
+    <string name="file_error">Error processing the file.</string>
+    <string name="upload_in_progress">Upload is currently in progress. Please wait.</string>
+    <string name="cancel_upload_title">Cancel Upload</string>
+    <string name="cancel_upload_message">Are you sure you want to cancel the upload?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="use_current_location">Use current location</string>
+    <string name="maps">Maps</string>
+    <string name="camera_permission_denied">Camera permission denied. Please enable it in settings to use this feature.</string>
+    <string name="maps_api_key">AIzaSyD_iFO998jgFcACyBYdkTR8mbAKAalFZsg</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="location_unavailable">Location is unavailable</string>
+
+    <string name="location_required">Location is required</string>
+
+</resources>

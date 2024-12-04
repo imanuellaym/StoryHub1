@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StoryHub</string>
+    <string name="login_message">Masuk untuk menjelajahi cerita yang luar biasa</string>
+    <string name="sign_up_message">Daftar untuk membuat akun</string>
+    <string name="create_account_message">Belum punya akun? Daftar di sini</string>
+    <string name="invalid_data">Data tidak valid</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="upload_error">Gagal mengunggah cerita, silakan coba lagi.</string>
+    <string name="loading_desc">Proses Memuat</string>
+    <string name="submit">Kirim</string>
+    <string name="camera_error">Gagal membuka kamera. Silakan coba lagi.</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="login">Masuk</string>
+    <string name="upload_success">Cerita berhasil diunggah!</string>
+    <string name="permission_granted">Izin diberikan</string>
+    <string name="permission_denied">Izin ditolak</string>
+</resources>
